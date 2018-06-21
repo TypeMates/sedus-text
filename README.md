@@ -21,7 +21,10 @@ hinterlegt.
 – export in zwei verschiedenen Font-Paketen (Design und Office)
 
 
-# About Fira
+# Based on Fira
+https://github.com/mozilla/Fira.git
+
+
 # Mozilla's Fira Type Family
 http://mozilla.github.io/Fira/
 
